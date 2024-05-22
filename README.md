@@ -13,7 +13,7 @@ To run the backend server, follow these steps:
 
 1. Open a terminal window.
 2. Navigate to the directory containing the `Backend.js` file.
-4. Run the backend server with the following command:
+4. Run the backend server with the following commands:
 ```bash
 npm install
 ```
