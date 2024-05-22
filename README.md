@@ -49,6 +49,9 @@ npm install
 ```
 then
 ```bash
+npm install react-signature-canvas
+```
+```bash
 npm start
 ```
 
