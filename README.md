@@ -52,6 +52,10 @@ then
 npm install react-signature-canvas
 ```
 then
+```
+npm install react-apexcharts apexcharts
+```
+then
 ```bash
 npm start
 ```
