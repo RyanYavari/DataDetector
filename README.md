@@ -42,9 +42,12 @@ After running this command, the Flask application should be up and running.
 ## Frontend Application
 
 1. Open a new terminal window (do not close the terminals running the backend server and Flask application).
-2. Navigate to the `157project/src` directory.
+2. Navigate to the `src` directory.
 3. Run the following command to start the frontend application:
-
+```bash
+npm install
+```
+then
 ```bash
 npm start
 ```
