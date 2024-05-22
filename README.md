@@ -28,8 +28,11 @@ After running this command, the backend server should be up and running.
 
 1. Open a new terminal window (do not close the terminal running the backend server).
 2. Navigate to the directory containing the `flask_app.py` file.
-3. Run the following command to start the Flask application:
-
+3. Run the following commands to start the Flask application:
+```bash
+pip install tensorflow
+```
+then
 ```bash
 python flask_app.py
 ```
